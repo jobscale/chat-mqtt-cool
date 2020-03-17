@@ -24,7 +24,7 @@ const USERS_LIST_TOPIC = USERS_LIST_TOPIC_PREFIX + '/#';
 const CHAT_ROOM_TOPIC = 'chat';
 
 // Target MQTT.Cool address. Change it with if required.
-const MQTT_COOL_URL = 'http://localhost:8080';
+const MQTT_COOL_URL = 'https://cloud.mqtt.cool';
 
 // Default MQTT broker to connect to.
 const DEFAULT_BROKER_HOST = 'broker.mqtt.cool';
