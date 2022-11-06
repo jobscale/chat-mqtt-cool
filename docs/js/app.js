@@ -27,7 +27,7 @@ const CHAT_ROOM_TOPIC = 'chat';
 const MQTT_COOL_URL = 'https://cloud.mqtt.cool';
 
 // Default MQTT broker to connect to.
-const DEFAULT_BROKER_HOST = 'broker.mqtt.cool';
+const DEFAULT_BROKER_HOST = 'mqtt-broker';
 const DEFAULT_BROKER_PORT = '1883';
 
 const USER_STYLE = {
