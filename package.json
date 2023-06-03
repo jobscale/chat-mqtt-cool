@@ -1,0 +1,26 @@
+{
+  "name": "chat-mqtt-cool",
+  "version": "1.0.0",
+  "description": "The **Chat Demo** is a very simple chat application based on MQTT.Cool.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobscale/chat-mqtt-cool.git"
+  },
+  "author": "jobscale <jobscale@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jobscale/chat-mqtt-cool/issues"
+  },
+  "homepage": "https://github.com/jobscale/chat-mqtt-cool#readme",
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
