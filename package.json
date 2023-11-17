@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jobscale/chat-mqtt-cool.git"
+    "url": "git+git@github.com:jobscale/chat-mqtt-cool.git"
   },
   "author": "jobscale <jobscale@users.noreply.github.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jobscale/chat-mqtt-cool/issues"
+    "url": "git@github.com:jobscale/chat-mqtt-cool/issues"
   },
-  "homepage": "https://github.com/jobscale/chat-mqtt-cool#readme",
+  "homepage": "git@github.com:jobscale/chat-mqtt-cool#readme",
   "devDependencies": {
     "serve": "^14.2.0"
   }
