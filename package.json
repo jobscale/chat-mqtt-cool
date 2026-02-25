@@ -2,6 +2,7 @@
   "name": "chat-mqtt-cool",
   "version": "1.0.0",
   "description": "The **Chat Demo** is a very simple chat application based on MQTT.Cool.",
+  "type": "module",
   "main": "index.js",
   "directories": {
     "doc": "docs"
